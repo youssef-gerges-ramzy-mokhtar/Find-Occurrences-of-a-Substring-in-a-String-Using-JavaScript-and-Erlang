@@ -6,4 +6,11 @@
 * Using async/await to laod data & patterns from files asynchronously
 
 ### Running Different Test Cases from the files
-![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Find-Occurrences-of-a-substring-in-a-string-Using-JavaScript/blob/main/Screenshoots/1.png?raw=true)
+![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Find-Occurrences-of-a-substring-in-a-string-Using-JavaScript/blob/main/Screenshoots/js.png?raw=true)
+
+# Find-Occurrences-of-a-substring-in-a-string-Using-Erlang
+Find all occurrences of a substring in a string using Erlang
+
+### Running Different Test Cases on the find_pattern() Function
+![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Find-Occurrences-of-a-substring-in-a-string-Using-JavaScript/blob/main/Screenshoots/erlang.png?raw=true)
+
